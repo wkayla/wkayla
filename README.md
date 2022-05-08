@@ -22,24 +22,24 @@ I'm Kayla, a practicing biostatistician with a passion for improving helathcare 
 Education:
 
     🎓 B.S. in Statistics from the University of Wyoming
-    
-      M.S. in Biostatistics from the University of Colorado Anschutz
 
-Talks about:
+    🎓 M.S. in Biostatistics from the University of Colorado Anschutz
 
-    • Multivariate Methods
-    
-    • Clinical trials
-    
-    • R for Data Science
+Talking about:
 
-Learns about:
+    📊  Multivariate Methods
+    
+    📊  Clinical trials
+    
+    📊  R for Data Science
 
-    • Fundamentals of Python
+Learning about:
+
+    📚 Fundamentals of Python
     
-    • Fundamentals of EHR data
+    📚 Electronic Health Records
     
-    • Fundamentals of Data Science Literacy
+    📚 Data Science
  
 Publications found here:
 
