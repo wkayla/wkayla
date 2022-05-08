@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Kayla, a practicing biostatistician with a passion for improving helathcare through data visualization and statistical modeling.
-
-Publications found [here](https://www.researchgate.net/profile/Kayla-Williamson-3/publications)
+I'm Kayla, a practicing biostatistician with a passion for improving healthcare through data visualization and statistical modeling. Publications found [here.](https://www.researchgate.net/profile/Kayla-Williamson-3/publications)
 
 Education:
 
