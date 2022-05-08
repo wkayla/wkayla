@@ -41,6 +41,4 @@ Learning about:
     
     📚 Data Science
  
-Publications found here:
-
-    • https://www.researchgate.net/profile/Kayla-Williamson-3/publications
+Publications found [here](https://www.researchgate.net/profile/Kayla-Williamson-3/publications)
