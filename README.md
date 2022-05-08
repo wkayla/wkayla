@@ -26,14 +26,21 @@ Education:
     • Masters of Science in Biostatistics from the University of Colorado Anschutz
 
 Talks about:
+
     • Multivariate Methods
+    
     • Clinical trials
+    
     • R for Data Science
 
 Learns about:
+
     • Fundamentals of Python
+    
     • Fundamentals of EHR data
+    
     • Fundamentals of Data Science Literacy
  
 Publications found here:
+
     • https://www.researchgate.net/profile/Kayla-Williamson-3/publications
