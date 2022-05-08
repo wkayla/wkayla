@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Kayla, a practicing biostatistician with a passion for improving helathcare through data visualization and statistical modeling.
+
+
+Education:
+    • Bachelor of Science in Statistics from the University of Wyoming
+    • Masters of Science in Biostatistics from the University of Colorado Anschutz
+
+Talks about:
+    • Multivariate Methods
+    • Clinical trials
+    • R for Data Science
+
+Learns about:
+    • Fundamentals of Python
+    • Fundamentals of EHR data
+    • Fundamentals of Data Science Literacy
+ 
+Publications found here:
+    • https://www.researchgate.net/profile/Kayla-Williamson-3/publications
