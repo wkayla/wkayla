@@ -20,7 +20,9 @@ I'm Kayla, a practicing biostatistician with a passion for improving helathcare 
 
 
 Education:
+
     • Bachelor of Science in Statistics from the University of Wyoming
+    
     • Masters of Science in Biostatistics from the University of Colorado Anschutz
 
 Talks about:
